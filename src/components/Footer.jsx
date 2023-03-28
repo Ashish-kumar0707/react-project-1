@@ -9,15 +9,15 @@ const Footer = () => {
       </div>
 
       <div>
-        <h5>Follow Us</h5>
+        <h5>Contact Us</h5>
         <div>
-          <a href="https://youtube.com/6packprogrammer" target={"blank"}>
-            Youtube
+          <a href="https://www.linkedin.com/in/ashish-kumar-17720222a/" target={"blank"}>
+            Linkedin
           </a>
-          <a href="https://instagram.com/meabhisingh" target={"blank"}>
-            Instagram
+          <a href="https://codeforces.com/profile/Kumarr_ashish" target={"blank"}>
+            Codeforces
           </a>
-          <a href="https://github.com/meabhisingh" target={"blank"}>
+          <a href="https://github.com/Ashish-kumar0707/" target={"blank"}>
             Github
           </a>
         </div>
